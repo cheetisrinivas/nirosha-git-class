@@ -1,0 +1,18 @@
+https://demo.redhat.com/workshop/7jm4y9
+
+sf6t3pm3
+
+Make sure you use the username 'lab-user' and the password 'r3dh4t1!' when prompted
+
+
+
+Openshift Console: https://console-openshift-console.apps.cluster-trsfd.trsfd.sandbox242.opentlc.com
+Openshift API for command line 'oc' client: https://api.cluster-trsfd.trsfd.sandbox242.opentlc.com:6443
+Download oc client from http://d3s3zqyaz8cp2d.cloudfront.net/pub/openshift-v4/clients/ocp/stable-4.9/openshift-client-linux.tar.gz
+
+Access the workshop at 'https://dashboard-lab-ocp-cns.apps.cluster-trsfd.trsfd.sandbox242.opentlc.com'
+Login with 'kubeadmin' and 'ELhkV-9Eth6-Ixb7T-TiZM4'
+
+Workshop may not be accessible until rollout finishes shortly.
+You can access your bastion via SSH:
+ssh lab-user@bastion.trsfd.sandbox242.opentlc.com
